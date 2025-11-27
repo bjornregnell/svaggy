@@ -1,0 +1,1 @@
+scala package . --power  --library --force
